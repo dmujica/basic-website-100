@@ -1,0 +1,55 @@
+.container_12 {
+	background: url("../img/woodgrain.png");
+	}
+
+/*logo*/
+#logo {
+	background: red;
+	}
+	
+#coname {
+	background: blue;
+}
+
+#nav {
+background: yellow;	
+	}
+	
+#aside {
+	background: pink;
+	}
+	
+#main {
+	background: green;
+	}
+	
+
+img {
+	border: 10px solid black;
+	padding: 10px;
+	margin: 20px;
+	border-radius: 100px;
+	box-shadow: 10px 10px 10px purple, -10px -10px 0px pink;
+	}
+
+/* Main Navigation */
+
+li {
+  background: #ffd500;
+  display: inline;
+  list-style: none;
+  margin: 10px;
+  padding: 20px;
+  text-align: left;
+}
+
+a {
+  color: green;
+  font-size: 24px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+li:hover {
+  background: blue;
+} 
